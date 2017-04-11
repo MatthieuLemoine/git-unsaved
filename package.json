@@ -65,7 +65,7 @@
     "bug-killer": "^4.3.0",
     "color-it": "^1.2.7",
     "couleurs": "^6.0.6",
-    "git-repos": "^1.2.5",
+    "git-repos": "github:kbjr/node-git-repos#patch-1",
     "git-state": "^3.1.0",
     "git-status": "^1.0.4",
     "ora": "^0.4.1",
